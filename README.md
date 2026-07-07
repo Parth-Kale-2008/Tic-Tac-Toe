@@ -1,2 +1,4 @@
-# Tic-Tac-Toe
-A simple Tic-Tac-Toe game made with HTML,CSS and JS 
+# 
+A basic Tic-Tac-Toe game using HTML,CSS and JS.
+#
+Async functions are used for JS
